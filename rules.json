@@ -1,0 +1,15 @@
+{
+    "rules": [
+        {
+            "pathname": "/graphql",
+            "dest": "[aplicacion].now.sh"
+        },
+        {
+            "pathname": "/[ruta]",
+            "dest": "[aplicacion].now.sh"
+        },
+        {
+            "dest": "[aplicacion].now.sh"
+        }
+    ]
+}
